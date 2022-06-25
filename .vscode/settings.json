@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "https://raw.githubusercontent.com/GoogleContainerTools/skaffold/master/docs/content/en/schemas/v2beta28.json": "file:///c%3A/Users/Thomas/Desktop/it/NodeJS/microservice-Node-React-course/ticketing/skaffold.yaml"
+  }
+}
